@@ -3,7 +3,7 @@ import Server from "./Server.mjs";
 import mongoose from "mongoose";
 
 let user = "rujuldwivedi";
-let password = "OUtUKTR3g0zMsOji";
+let password = "{password}";
 let dbName = "products";
 
 //Also specify database here
